@@ -30,3 +30,8 @@ My main takeaways :
 - G2 vs a China pool2 team (JDG/SNG) has a 77% of happening (I’m sweating), rather than the intuitive 66%
 - MAD vs FLY at 47% for the spicy botlane Ignar vs Kaiser matchup
 - DRX are the lucky winner and get to face the world champs early (57%)
+
+**Matchup table**
+![Result][matchup_table]
+
+[matchup_table]: ./images/matchup_table.png
